@@ -1,0 +1,7 @@
+﻿  prof3.cpp
+C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\prof3\prof3.cpp(16,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\prof3\prof3.cpp(35,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\prof3\prof3.cpp(40,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\prof3\prof3.cpp(45,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\prof3\prof3.cpp(50,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  prof3.vcxproj -> C:\Users\Lenovo\Desktop\C++\1 DZ 1\1\x64\Debug\prof3.exe
