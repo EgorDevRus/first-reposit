@@ -10,7 +10,7 @@ void print(string a) {
 
 int main()
 {
-
+    // new commit
     setlocale(LC_ALL, "RU");
 
      srand(time(NULL)); 
